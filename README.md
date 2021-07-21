@@ -18,3 +18,5 @@ The first phase of this project involved exploring the distribution of self-repo
 ### Tableau Visualization
 ![Related Info 1](https://user-images.githubusercontent.com/72405141/126565101-47ba4510-7184-40e0-b671-ad5fda4236f8.png)
 
+![image](https://user-images.githubusercontent.com/72405141/126565213-6a0c7c99-c8bd-4583-88e0-c5d2357f5aec.png)
+
