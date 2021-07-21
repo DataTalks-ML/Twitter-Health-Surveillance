@@ -17,6 +17,10 @@ The first phase of this project involved exploring the distribution of self-repo
 
 ### Tableau Visualization
 ![Related Info 1](https://user-images.githubusercontent.com/72405141/126565101-47ba4510-7184-40e0-b671-ad5fda4236f8.png)
-
-![image](https://user-images.githubusercontent.com/72405141/126565213-6a0c7c99-c8bd-4583-88e0-c5d2357f5aec.png)
+![Related Info 2](https://user-images.githubusercontent.com/72405141/126565301-0b72a7b4-09e1-408a-af2f-9a361c897c5b.png)
+![Tweets, Injury](https://user-images.githubusercontent.com/72405141/126565332-f8f272cf-a1b9-41bc-9203-8490daacc3f6.png)
+![Followers, Tweets](https://user-images.githubusercontent.com/72405141/126565356-65a5f422-9a16-445f-8fa4-9acfdf00287b.png)
+![Tweet by Province](https://user-images.githubusercontent.com/72405141/126565427-8239b6ff-40c2-4f8c-adb3-fffb638eb674.png)
+![N-Gram](https://user-images.githubusercontent.com/72405141/126565463-65e9c525-7851-463d-acf9-7c6b999dc853.png)
+![Sentiment Analysis](https://user-images.githubusercontent.com/72405141/126565500-17b2ee8d-5fb6-4eb9-ba07-b8ada53ec7b1.png)
 
