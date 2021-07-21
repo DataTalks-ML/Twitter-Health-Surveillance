@@ -16,5 +16,5 @@ The dataset available is a collection of Canadian's physical activity-related tw
 The first phase of this project involved exploring the distribution of self-reported tweets across Canadian provinces as an exploratory analysis using Tableau Prep Builder and Python. We applied supervised machine learning algorithms such as Naive Bayes and Random Forest to predict whether the tweets were self-reported or not and observe the performance of these machine learning algorithms. Then we performed Natural Language Processing (NLP) in R to build bigrams for visualizing the relationships between words and analyze the overall sentiment of physical activity. To further support our findings and results, we collected supporting datasets from Google Trends, Reddit, and the CIHI to observe the similarities and differences between platforms.
 
 ### Tableau Visualization
-<img width="500" alt="Screen Shot 2021-07-21 at 3 44 22 PM" src="https://user-images.githubusercontent.com/72405141/126564188-93b1e95f-b1aa-481f-8d59-9d22e6418751.png">
-<img width="500" alt="Screen Shot 2021-07-21 at 3 44 55 PM" src="https://user-images.githubusercontent.com/72405141/126564274-1673c4a6-a055-4a0c-a30c-7af23a1a1c86.png">
+<img width="600" alt="Screen Shot 2021-07-21 at 3 44 22 PM" src="https://user-images.githubusercontent.com/72405141/126564188-93b1e95f-b1aa-481f-8d59-9d22e6418751.png">
+<img width="600" alt="Screen Shot 2021-07-21 at 3 44 55 PM" src="https://user-images.githubusercontent.com/72405141/126564274-1673c4a6-a055-4a0c-a30c-7af23a1a1c86.png">
