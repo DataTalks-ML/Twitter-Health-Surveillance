@@ -9,4 +9,4 @@ This is the final project for an advanced visualization course at the University
 
 ### Dataset
 
-The dataset available was a collection of Canadian's physical activity-related tweets from October 12, 2019, to December 1, 2019, provided by Data Intelligence for Health (DIH) Lab. The raw dataset had 717 columns and 4,696 rows.
+The dataset available is a collection of Canadian's physical activity-related tweets from October 12, 2019, to December 1, 2019, provided by Data Intelligence for Health (DIH) Lab. The raw dataset has 717 columns and 4,696 rows.
