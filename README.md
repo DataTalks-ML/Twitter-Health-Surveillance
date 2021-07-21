@@ -3,8 +3,8 @@
 
 **Date**: April 15, 2021
 
-## Introduction
+### Introduction
 
 This is the final project for an advanced visualization course at the University of Calgary. For this project, we performed Natural Language Processing to analyze and extract meaningful insight stored in physical activity-related tweets. We also analyzed Google Trends, Reddit, and the Canadian Institute of Health Information statistical reports to enhance the relevance of our research questions. We aimed to gain valualbe insights and have a better in-depth understanding of how Canadians consider physical activity and behave. Hopefully, this study can be used to target interventions and health promotion efforts to improve Canadians physical activity levels.
 
-## Dataset
+### Dataset
